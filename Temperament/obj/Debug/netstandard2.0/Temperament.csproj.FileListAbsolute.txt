@@ -1,0 +1,15 @@
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/Temperament.csprojAssemblyReference.cache
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/tempermanets.xaml.g.cs
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/Temperament.AssemblyInfoInputs.cache
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/Temperament.AssemblyInfo.cs
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/Temperament.csproj.CoreCompileInputs.cache
+/Users/alekseistaiger/Projects/Temperament/Temperament/bin/Debug/netstandard2.0/Temperament.deps.json
+/Users/alekseistaiger/Projects/Temperament/Temperament/bin/Debug/netstandard2.0/Temperament.dll
+/Users/alekseistaiger/Projects/Temperament/Temperament/bin/Debug/netstandard2.0/ref/Temperament.dll
+/Users/alekseistaiger/Projects/Temperament/Temperament/bin/Debug/netstandard2.0/Temperament.pdb
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/Temperament.dll
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/ref/Temperament.dll
+/Users/alekseistaiger/Projects/Temperament/Temperament/obj/Debug/netstandard2.0/Temperament.pdb

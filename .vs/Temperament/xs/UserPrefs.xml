@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6E33C131-6FDC-4FBE-822C-CDBC4DC6841D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temperament/MainPage.xaml">
+    <Files>
+      <File FileName="Temperament/tempermanets.xaml.cs" Line="1" Column="1" />
+      <File FileName="Temperament/MainPage.xaml" Line="26" Column="59" />
+      <File FileName="Temperament/MainPage.xaml.cs" Line="27" Column="39" />
+      <File FileName="Temperament/tempermanets.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Temperament" expanded="True">
+            <Node name="Temperament" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="tempermanets.xaml" expanded="True" />
+            </Node>
+            <Node name="Temperament.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Temperament.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
