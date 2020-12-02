@@ -15,7 +15,7 @@
     <ContentPage>
         <StackLayout>
         <Label HorizontalOptions="Center" Margin="25"  FontSize="Large" Text="Холерик"></Label>
-        <ImageButton WidthRequest="400" HeightRequest="400" Source="holerik.png"></ImageButton>
+        <ImageButton Clicked="ImageButton_Clicked1"  WidthRequest="400" HeightRequest="400" Source="holerik.png"></ImageButton>
         <Button TextColor="White" Clicked="TestButton_Clicked" HorizontalOptions="Center" Text="Тест на темперамент" BackgroundColor="DarkTurquoise"></Button>
         </StackLayout>
 
@@ -24,14 +24,14 @@
     <ContentPage>
         <StackLayout>
         <Label HorizontalOptions="Center" Margin="25" FontSize="Large" Text="Сангвиник"></Label>
-        <ImageButton WidthRequest="400" HeightRequest="400" Source="sangv.png"></ImageButton>
+        <ImageButton Clicked="ImageButton_Clicked2"  WidthRequest="400" HeightRequest="400" Source="sangv.png"></ImageButton>
         <Button TextColor="White" Clicked="TestButton_Clicked" HorizontalOptions="Center" Text="Тест на темперамент" BackgroundColor="DarkTurquoise"></Button>
         </StackLayout>
     </ContentPage>
     <ContentPage>
         <StackLayout>
         <Label  HorizontalOptions="Center" Margin="25" FontSize="Large" Text="Меланхолик"></Label>
-        <ImageButton WidthRequest="400" HeightRequest="400" Source="melan.png"></ImageButton>
+        <ImageButton Clicked="ImageButton_Clicked3"  WidthRequest="400" HeightRequest="400" Source="melan.png"></ImageButton>
         <Button TextColor="White" Clicked="TestButton_Clicked" HorizontalOptions="Center" Text="Тест на темперамент" BackgroundColor="DarkTurquoise"></Button>
 
         </StackLayout>
